@@ -3,9 +3,8 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.FileWriter;
 /*
-* This is a k way merge function, The k way merge function doesn't sort the elements
-* correctly. This program splits into k lists and merges in order though.
-*
+* This is a k way merge function, 
+* This program splits into k lists and merges in order though.
 * */
 
 class kWayMerge {
